@@ -1,2 +1,2 @@
-# TiktoSHARES
-TikTok bot shares
+[x]SHARES TIKTOK
+• TIKTOK BOT

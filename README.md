@@ -1,2 +1,4 @@
-[x]SHARES TIKTOK
-• TIKTOK BOT
+- [x] Bug fixed
+- [x] All Package fixed
+================
+# SHELL
